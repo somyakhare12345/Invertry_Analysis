@@ -1,0 +1,38 @@
+ProductSubcategoryID,ProductCategoryID,Name,ModifiedDate
+1,1,Mountain Bikes,2008-04-30
+2,1,Road Bikes,2008-04-30
+3,1,Touring Bikes,2008-04-30
+4,2,Handlebars,2008-04-30
+5,2,Bottom Brackets,2008-04-30
+6,2,Brakes,2008-04-30
+7,2,Chains,2008-04-30
+8,2,Cranksets,2008-04-30
+9,2,Derailleurs,2008-04-30
+10,2,Forks,2008-04-30
+11,2,Headsets,2008-04-30
+12,2,Mountain Frames,2008-04-30
+13,2,Pedals,2008-04-30
+14,2,Road Frames,2008-04-30
+15,2,Saddles,2008-04-30
+16,2,Touring Frames,2008-04-30
+17,2,Wheels,2008-04-30
+18,3,Bib-Shorts,2008-04-30
+19,3,Caps,2008-04-30
+20,3,Gloves,2008-04-30
+21,3,Jerseys,2008-04-30
+22,3,Shorts,2008-04-30
+23,3,Socks,2008-04-30
+24,3,Tights,2008-04-30
+25,3,Vests,2008-04-30
+26,4,Bike Racks,2008-04-30
+27,4,Bike Stands,2008-04-30
+28,4,Bottles and Cages,2008-04-30
+29,4,Cleaners,2008-04-30
+30,4,Fenders,2008-04-30
+31,4,Helmets,2008-04-30
+32,4,Hydration Packs,2008-04-30
+33,4,Lights,2008-04-30
+34,4,Locks,2008-04-30
+35,4,Panniers,2008-04-30
+36,4,Pumps,2008-04-30
+37,4,Tires and Tubes,2008-04-30
